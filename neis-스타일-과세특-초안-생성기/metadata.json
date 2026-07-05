@@ -1,0 +1,6 @@
+{
+  "name": "NEIS 스타일 과세특 초안 생성기",
+  "description": "성취기준, 수업 에피소드, 학생 특성 키워드를 조합하여 교육부 NEIS 업무포털 스타일의 깔끔한 디자인으로 과목별 세부능력 및 특기사항(과세특) 초안을 맞춤 생성해 주는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
